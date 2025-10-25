@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",        // ECMAScript target version
+    "module": "commonjs",      // Module system
+    "moduleResolution": "node", // How modules are resolved
+    "strict": true,            // Enable all strict type checking options
+    "esModuleInterop": true,   // Enables compatibility with Babel
+    "skipLibCheck": true,      // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true, // Ensure consistent casing in imports
+    "resolveJsonModule": true  // Allow importing JSON files
+  }
+}
