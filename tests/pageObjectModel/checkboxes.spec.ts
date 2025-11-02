@@ -23,3 +23,6 @@ test ('verify checkboxes functionality', async ({ page }) => {
 
 
 
+
+
+
